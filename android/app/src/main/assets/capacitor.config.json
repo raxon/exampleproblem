@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "examplecap",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/examplecap",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
